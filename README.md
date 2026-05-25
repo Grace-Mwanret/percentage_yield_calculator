@@ -5,6 +5,7 @@ It is a simple python project so it can be run on any code editor just make sure
 # What it does
 This project is a Python program designed to calculate the percentage yield of chemical reactions across several experiments using the formula(actual yield / theoretical yield) * 100.
 It then flags result below 60% as low yield and those at 60% and above as acceptable.
+Note: both lists must be the same length for accurate results
 # What I learned
 I learned how to:
 1. Use Python functions
